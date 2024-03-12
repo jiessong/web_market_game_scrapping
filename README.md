@@ -10,6 +10,7 @@ This project aims to conduct a market analysis to assist a company in understand
 The whole web scrapping process was performed using Beautiful Soup library [*collecting_data.py*](https://github.com/jiessong/web_market_game_scrapping/blob/main/collecting_data.py).
 
 
+
 ## Output
 
 Dataset output is in .csv format [*dataset_top_card_games.csv*](https://github.com/jiessong/web_market_game_scrapping/blob/main/dataset_top_card_games.csv).
